@@ -439,8 +439,6 @@ A web-based application for managing books, users, and borrowing records.
 
 # 🐍 GitHub Contribution Snake
 
-> **⚠️ This image will appear after you set up the GitHub Action.**
-
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/SyedNasir165/SyedNasir165/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
