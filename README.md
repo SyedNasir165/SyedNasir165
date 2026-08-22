@@ -1,486 +1,119 @@
-<!-- ========================================= -->
-<!--            PREMIUM GITHUB PROFILE         -->
-<!-- ========================================= -->
+<div align="center">
 
-<p align="center">
+# Syed Nasir
 
-<img src="https://komarev.com/ghpvc/?username=SyedNasir165&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+### AI-Focused Full Stack Developer · Computer Science Engineering Undergraduate
 
-<img src="https://img.shields.io/github/followers/SyedNasir165?label=Followers&style=for-the-badge"/>
+Building practical software at the intersection of **Artificial Intelligence**, **cloud technologies**, and **full-stack engineering**.
 
-<img src="https://img.shields.io/github/stars/SyedNasir165?affiliations=OWNER&style=for-the-badge"/>
+<p>
+<a href="https://github.com/SyedNasir165"><img src="https://img.shields.io/badge/GitHub-SyedNasir165-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/syednasir21/"><img src="https://img.shields.io/badge/LinkedIn-Syed_Nasir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:sd.nasirsyed21@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p> <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:111827,50:1D4ED8,100:06B6D4&section=header" alt="Futuristic header"> </div>
 
-</p>
+## Profile
 
-<p align="center">
+I am a Computer Science Engineering undergraduate focused on building reliable, intelligent, and user-centered software. My work spans **full-stack development**, **Generative AI**, **large language models**, **RAG systems**, **AWS Cloud**, and **database-driven applications**.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,100:06B6D4&text=Syed%20Nasir&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Engineering%20Student%20|%20Full%20Stack%20Developer%20|%20AI%20Enthusiast&descAlignY=58"/>
+I enjoy turning complex ideas into practical products, contributing to team projects, participating in hackathons, and strengthening my foundations in software engineering, system design, and applied AI.
 
-</p>
+```
+Focus       AI Engineering · Full Stack Development · Cloud Applications
+Interests   Generative AI · LLMs · RAG · AI Automation · Backend Systems
+Approach    Learn deeply · Build deliberately · Iterate continuously
+```
 
-<p align="center">
+## Technical Stack
 
-<img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=30&duration=3500&pause=1200&color=A371F7&center=true&vCenter=true&width=900&lines=👋+Welcome+to+my+GitHub+Profile!;Computer+Science+Engineering+Student;Full+Stack+Developer;Artificial+Intelligence+Enthusiast;Generative+AI+%7C+LLMs+%7C+LangChain;Always+Learning+New+Technologies;Building+Scalable+Software+Solutions"/>
+### Languages and Development
 
-</p>
+![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=F97316)![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FFD43B)![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26)![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6)![Spring Boot](https://img.shields.io/badge/Spring_Boot-111827?style=for-the-badge&logo=springboot&logoColor=6DB33F)
 
----
+### AI, Data, and Cloud
 
-# 🚀 About Me
+![Generative AI](https://img.shields.io/badge/Generative_AI-111827?style=for-the-badge&logo=openai&logoColor=10A37F)![LangChain](https://img.shields.io/badge/LangChain-111827?style=for-the-badge&logo=chainlink&logoColor=375BD2)![TensorFlow](https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)![AWS](https://img.shields.io/badge/AWS_Cloud-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900)![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1)![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248)
 
-Hi, I'm **Syed Nasir**, a passionate **Computer Science Engineering undergraduate** with strong interests in **Artificial Intelligence, Full Stack Development, Software Engineering, and Cloud Technologies**.
+`Git` · `GitHub` · `VS Code` · `Figma` · `REST APIs` · `DSA` · `OOP` · `DBMS` · `Operating Systems` · `Computer Networks`
 
-I enjoy transforming innovative ideas into practical software solutions. I love participating in hackathons, internships, open-source projects, and continuously improving my technical skills through real-world development.
+## Selected Projects
 
-<img align="right" alt="Coding" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+### [MyPersonalAgent](https://github.com/SyedNasir165/MyPersonalAgent)
 
-### 👨‍💻 Current Focus
+A locally running personal AI assistant built with **Python** and **Ollama**, integrating **tool selection**, **web search**, **Python execution**, **file operations**, and **persistent memory**.
 
-- 🔭 Currently working on **AI Automation & Intelligent Solutions**
-- 🌱 Learning **Generative AI, LLMs, LangChain, Spring Boot & Cloud**
-- 🤖 Exploring **AI Agents & RAG Applications**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Java, Python, AI, Web Development & REST APIs**
-- ⚡ Fun Fact: **I enjoy solving real-world problems using AI.**
+`Python` `Ollama` `AI Agents` `Tool Use` `Persistent Memory`
 
----
+### [Local Tourism Bot — RAG-Based AI Travel Assistant](https://github.com/SyedNasir165/Local_Tourism_Bot)
 
-## 🎯 Career Objective
+A **Retrieval-Augmented Generation** chatbot that provides personalized travel recommendations through document retrieval, vector search, and source-based responses.
 
-> Passionate software developer seeking opportunities to build impactful products using **Artificial Intelligence**, **Backend Development**, and **Full Stack Technologies**, while continuously learning modern software engineering practices.
+`Python` `LangChain` `Groq LLM` `ChromaDB` `Streamlit` `RAG`
 
----
+### [SETRS — Smart Emergency Traffic Response System](https://github.com/SyedNasir165/SETRS_NEXORA)
 
-# 🌟 Featured Projects
+An intelligent emergency traffic-management solution supporting **ambulance tracking**, **signal preemption**, **hospital assignment**, and **citizen alerts**. Contributed as **Team Leader**, **Frontend Developer**, and **Research Contributor**.
 
----
+## Experience
 
-## 🌍 Local Tourism Bot
+| Organization | Role | Period |
+| --- | --- | --- |
+| **IBM SkillsBuild** | AI Automation & Intelligent Solutions Intern | June 22, 2026 – July 31, 2026 |
+| **ThinkChamp Pvt. Ltd.** | Python with GenAI Intern | May 19, 2026 – June 19, 2026 |
+| **Prodigy InfoTech** | Web Developer Intern | March 1, 2026 – March 31, 2026 |
 
-### 🔹 AI-Powered Travel Assistant
+Experience includes **AI automation**, **workflow design**, **API integration**, **Generative AI applications**, **responsive web development**, and practical software delivery.
 
-A Retrieval-Augmented Generation (RAG) chatbot that provides personalized travel recommendations using document retrieval and semantic search.
+## Research
 
-### ✨ Features
+### FaultSeeker++ — Multi-Agent LLM Framework for Automated DeFi Vulnerability Localization
 
-- 🤖 AI-powered chatbot
-- 📄 RAG-based document retrieval
-- 🔍 Vector Search
-- 💬 Natural language responses
-- 🌍 Personalized travel recommendations
+A research project exploring intelligent vulnerability localization across decentralized-finance codebases. The work evaluates **10 EVM chains**, **80+ vulnerability types**, **1,059 annotated exploits**, and **10K benign transactions**, achieving an **F1-score of 0.969** and reducing false-positive rate by **4.7 percentage points**.
 
-### ⚙️ Tech Stack
+## Certifications
 
-`Python` • `LangChain` • `Groq LLM` • `ChromaDB` • `Streamlit`
+- **Python with Generative AI** — ThinkChamp Pvt. Ltd.
 
----
+- **AWS Cloud**
 
-## 🚑 SETRS – Smart Emergency Traffic Response System
+- **Machine Learning with Python** — IBM / Coursera
 
-An intelligent emergency traffic management system designed to reduce ambulance response time and improve public safety.
+- **Artificial Intelligence: Concepts and Techniques** — NPTEL
 
-### 👨‍💻 My Role
+- **Java** — Great Learning
 
-- 👑 Team Leader
-- 🎨 Frontend Developer
-- 📚 Research Contributor
-- 📄 Documentation
+- **Retrieval-Augmented Generation (RAG) Course**
 
-### ✨ Key Features
+## Achievements
 
-- 🚑 Ambulance Tracking
-- 🚦 Intelligent Signal Preemption
-- 🏥 Hospital Assignment
-- 📢 Citizen Alerts
-- 📍 Real-time Emergency Monitoring
+- **First Place** — NVIDIA Robotics & AI Workshop for developing a Smart Attendance System.
 
----
+- **Second Place** — NEXORA Hackathon 2026 among 70 teams for developing the SETRS Emergency Traffic Response System.
 
-## 📚 Other Projects
+- **National-Level Participant** — Smart India Hackathon for developing an NLP-powered Healthcare Chatbot.
 
-### 🤖 AI Chatbot
+## Current Direction
 
-AI-powered conversational chatbot built using Python and Generative AI.
+I am expanding my capabilities in **AWS Cloud**, **AI automation**, **large language models**, **RAG applications**, **Spring Boot**, **system design**, and scalable full-stack systems. I am especially interested in opportunities where thoughtful engineering and applied AI create measurable real-world value.
 
----
+## GitHub Metrics
 
-### 🧠 AI Quiz Generator
+<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=SyedNasir165&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub statistics">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedNasir165&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages">   
+ <img src="https://streak-stats.demolab.com?user=SyedNasir165&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"> </div>
 
-Generates quizzes automatically using Artificial Intelligence.
+## Connect
 
----
+<div align="center">
 
-### ❤️ AI Health Symptom Checker
+<a href="mailto:sd.nasirsyed21@gmail.com">Email</a> ·<a href="https://www.linkedin.com/in/syednasir21/">LinkedIn</a> ·<a href="https://github.com/SyedNasir165">GitHub</a>
 
-Provides AI-assisted symptom analysis and health guidance.
 
----
 
-### 📖 Library Management System
 
-A web-based application for managing books, users, and borrowing records.
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1D4ED8,100:06B6D4&height=90&section=footer" alt="Futuristic footer"> </div>
 
-## 🎓 Currently Working On
+> **Learn deeply. Build deliberately. Improve continuously.**
 
-- 🤖 AI Automation Solutions
-- ☁️ Cloud Technologies
-- 🧠 Large Language Models (LLMs)
-- ⚡ Spring Boot Projects
-- 🌐 Full Stack Applications
-
----
-
-# 💻 Tech Stack
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,bootstrap,spring,mysql,mongodb,git,github,vscode,figma,tensorflow,pytorch"/>
-
-</p>
-
----
-
-## 💡 Core Computer Science
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-00599C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/OOP-6DB33F?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Operating%20Systems-FF6F00?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Computer%20Networks-7952B3?style=for-the-badge"/>
-
-</p>
-
----
-
-## 🚀 Currently Learning
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes"/>
-
-</p>
-
-- ☁️ Cloud Computing
-- 🤖 AI Automation
-- 🧠 Large Language Models (LLMs)
-- 🔗 LangChain
-- ⚡ Spring Boot
-- 🏗️ System Design
-
----
-
-# 🏆 Achievements
-
-🥇 **First Place** — NVIDIA Robotics & AI Workshop for developing a **Smart Attendance System**
-
-🥈 **Second Place** — NEXORA Hackathon 2026 (Among 70 Teams) for developing the **SETRS – Smart Emergency Traffic Response System**
-
-🏅 **National-level Participant** — Smart India Hackathon (SIH) for developing an **NLP-powered Healthcare Chatbot**
-
-🎯 Successfully completed multiple AI and Full Stack internships while building real-world applications.
-
----
-
-# 💼 Internship Experience
-
----
-
-## 🤖 IBM SkillsBuild
-
-### AI Automation & Intelligent Solutions Intern
-
-📅 **June 2026 – Present**
-
-### Responsibilities
-
-- AI Automation
-- Workflow Design
-- API Integration
-- Scalable AI Systems
-- Intelligent Process Automation
-
----
-
-## 🧠 ThinkChamp Pvt. Ltd.
-
-### Python with Generative AI Intern
-
-📅 **May 2026 – June 2026**
-
-### Developed
-
-- 🤖 AI Chatbot
-- 📝 AI Quiz Generator
-- ❤️ AI Health Symptom Checker
-- 📚 Library Management System
-
-### Technologies Used
-
-`Python` • `HTML` • `CSS` • `JavaScript` • `Generative AI`
-
----
-
-## 🌐 Prodigy InfoTech
-
-### Web Development Intern
-
-📅 **March 2026**
-
-### Worked On
-
-- Responsive Web Development
-- HTML
-- CSS
-- JavaScript
-- UI Improvements
-
----
-
-# 📜 Certifications
-
-🏅 Machine Learning with Python — IBM / Coursera
-
-🏅 Artificial Intelligence: Concepts and Techniques — NPTEL
-
-🏅 Java Programming — Great Learning
-
-🏅 HTML & CSS — Udemy
-
-🏅 Python with Generative AI — ThinkChamp Pvt. Ltd.
-
----
-
-# 📖 Research
-
-## 📄 FaultSeeker++
-
-### Multi-Agent LLM Framework for Automated DeFi Vulnerability Localization
-
-**Role**
-
-- 👨‍💻 Frontend Developer
-- 📚 Research Contributor
-- 📝 Documentation
-
-### Research Focus
-
-- Multi-Agent Systems
-- Large Language Models
-- DeFi Security
-- Vulnerability Detection
-- Automated Code Analysis
-
----
-
-# 🌟 Areas of Interest
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Generative%20AI-red?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Large%20Language%20Models-purple?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Full%20Stack%20Development-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Backend%20Development-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Software%20Engineering-black?style=for-the-badge"/>
-
-</p>
-
----
-
-# 📊 GitHub Analytics
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SyedNasir165&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedNasir165&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=SyedNasir165&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SyedNasir165&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</p>
-
----
-
-# 📈 GitHub Profile Summary
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SyedNasir165&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📊 Contribution Statistics
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SyedNasir165&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SyedNasir165&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SyedNasir165&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SyedNasir165&theme=tokyonight&utcOffset=5.5"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SyedNasir165&theme=tokyo-night&hide_border=true&area=true"/>
-
-</p>
-
----
-
-# 🌟 Open Source Goals
-
-- 🌱 Contribute regularly to Open Source
-- ⭐ Build impactful AI-powered applications
-- 🤝 Collaborate with developers worldwide
-- 📚 Share knowledge through GitHub
-- 🚀 Continuously improve software engineering skills
-
----
-
-# 💬 Favorite Quote
-
-<p align="center">
-
-> **"First, solve the problem. Then, write the code." – John Johnson**
-
-</p>
-
----
-
-# 🌐 Connect With Me
-<p align="center">
-
-<a href="https://github.com/SyedNasir165">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/syednasir21">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://x.com/YOUR_X_USERNAME">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="mailto:sd.nasirsyed21@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 📬 Contact
-
-📧 **Email:** `sd.nasirsyed21@gmail.com`
-
-💼 **LinkedIn:** https://www.linkedin.com/in/syednasir21
-
-💻 **GitHub:** https://github.com/SyedNasir165
-
-🐦 **X (Twitter):** https://x.com/SyedNasirzfu9
-
----
-
-# 🎯 2026 Goals
-
-- 🚀 Contribute consistently to Open Source
-- 🤖 Build AI-powered applications with LLMs
-- ☁️ Learn AWS & Cloud Computing
-- 🏆 Win National Level Hackathons
-- 💼 Secure a Software Development Internship
-- 📚 Strengthen DSA & System Design
-- 🌍 Build impactful Full Stack projects
-
----
-
-# 🐍 GitHub Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/SyedNasir165/SyedNasir165/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-
-</p>
-
----
-
-# ❤️ Support My Work
-
-<p align="center">
-
-If you like my projects, consider giving them a ⭐.
-
-It motivates me to build more useful software and contribute to Open Source.
-
-</p>
-
----
-
-# 💡 Quote I Live By
-
-<p align="center">
-
-> **"Code. Learn. Build. Repeat."**
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=120&section=footer"/>
-
-</p>
-
-<p align="center">
-
-### ⭐ Thanks for Visiting My Profile!
-
-**Building the future with Artificial Intelligence, Full Stack Development & Software Engineering.**
-
-🚀 **Always Learning • Always Building • Always Improving**
-
-</p>
+<!-- Profile README for SyedNasir165. --> <!-- Last updated: 2026 -->
